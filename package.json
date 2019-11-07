@@ -1,0 +1,24 @@
+{
+  "name": "eliecer",
+  "version": "1.0.0",
+  "description": "learning node by creating an express server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliecerecology/nodeEliDi2019.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "npm"
+  ],
+  "author": "Eliecer Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eliecerecology/nodeEliDi2019/issues"
+  },
+  "homepage": "https://github.com/eliecerecology/nodeEliDi2019#readme"
+}
