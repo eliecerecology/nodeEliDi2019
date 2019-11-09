@@ -6,7 +6,7 @@ const app = express();
 //    res.send('<h1>Welcome to my first app :-)</h1>')
 //});
 
-app.get('/demo', (req, res) =>{
+app.get('/toindex', (req, res) =>{
     res.sendFile(__dirname + '/index.html')
 });
 
