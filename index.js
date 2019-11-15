@@ -6,6 +6,8 @@ const app = express();
 //    res.send('<h1>Welcome to my first app :-)</h1>')
 //});
 
+app.use(express.static('public'));
+
 app.get('/toindex', (req, res) =>{
     res.sendFile(__dirname + '/index.html')
 });
